@@ -1,0 +1,19 @@
+{
+  "name": "hot-potato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatanAmurim/hot-potato.git"
+  },
+  "author": "NatanAmurim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatanAmurim/hot-potato/issues"
+  },
+  "homepage": "https://github.com/NatanAmurim/hot-potato#readme"
+}
